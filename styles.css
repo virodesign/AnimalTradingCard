@@ -1,0 +1,67 @@
+/* add your CSS here */
+
+body{
+	font-family: Roboto, Helvetica, Sans Serif;
+	font-size: 14px;
+	line-height: 16px;
+	color:white;
+}
+
+.container{
+	width: 300px;
+	border: 1px solid #ccc;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #922; 
+
+
+}
+
+#content{
+	border: 1px solid gold;
+	border-radius: 5px;
+	margin:10px 6px;
+	padding: 10px;
+
+}
+
+h2{
+
+font-weight: 400;
+font-size: 2em;
+text-align: center;
+
+}
+
+.profile{
+
+	max-width: 300px;
+	border-radius: 4px;
+
+}
+
+.shadow{
+
+-webkit-box-shadow: 8px 4px 10px -1px rgba(0, 0, 0, 0.19);
+-moz-box-shadow: 8px 4px 10px -1px rgba(0, 0, 0, 0.19);
+box-shadow: 8px 4px 10px -1px rgba(0, 0, 0, 0.19);
+}
+
+ul li span{
+
+color:#440118;
+text-transform: uppercase;
+margin-left: -20px;
+font-weight: 700;
+
+
+
+}
+
+.intro{
+
+	color: gold;
+	text-align: center;
+
+}
+
